@@ -3,6 +3,6 @@ In this tutorial we want to show how to use Google Trends for analyzing trend in
 ## Requirement
 1. Internet
 2. Python 2 or 3(Suggestion : Install in Anaconda Environment
-## Contributor
+## Contributors
 1. [Thatchaphon Kaeosuriya](https://www.instagram.com/tigerstat46/)
-2. [Rapeepan Pumjit](https://www.instagram.com/stopstapp/)
+2. [Rapeepan Pumjit](https://www.instagram.com/stopstapp/) (Image)
